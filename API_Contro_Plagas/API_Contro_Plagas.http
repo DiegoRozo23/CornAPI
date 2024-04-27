@@ -1,0 +1,6 @@
+@API_Contro_Plagas_HostAddress = http://localhost:5162
+
+GET {{API_Contro_Plagas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
